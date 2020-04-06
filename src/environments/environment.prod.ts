@@ -4,7 +4,7 @@ export const environment = {
   supportedLanguages: [
     'es-ES'
   ],
-  provision_serverUrl: 'http://gateway-adifv2.apps.okd.openshifthub.ml/api/m2',
-  const_serverUrl: 'http://gateway-adifv2.apps.okd.openshifthub.ml/api/m1',
+  provision_serverUrl: 'http://gateway-userv.apps.okd.openshifthub.ml/api/m2',
+  const_serverUrl: 'http://gateway-userv.apps.okd.openshifthub.ml/api/m1',
   security: 'csrf'
 };
